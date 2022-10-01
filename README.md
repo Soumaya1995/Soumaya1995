@@ -2,14 +2,6 @@
 
 I'm a FullStack Software Engineer. Some technologies I enjoy working with include Reactjs ,Angular ,TypeScript, SpringBoot...
 
--I have 2+ years of experience designing, developing, and managing complex web applications and internal frameworks.
-
--Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks.
-
--Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
-
-🌱 I’m currently learning Python
-
 <!--
 **Soumaya1995/Soumaya1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
