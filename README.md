@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Soumaya
 
-I'm a FullStack Software Engineer. Some technologies I enjoy working with include Reactjs ,Angular ,TypeScript, SpringBoot...
+I'm a Software Engineer...
 
+## :computer: Technologies I Love
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
 <!--
 **Soumaya1995/Soumaya1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
